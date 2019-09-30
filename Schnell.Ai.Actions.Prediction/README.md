@@ -2,6 +2,12 @@
 
 This module provides all components required for data-prediction.
 
+
+## Installation
+``` powershell
+schnell.ai module-i Schnell.Ai.Actions.Prediction 0.9.1
+```
+
 ## Trainer: Schnell.Ai.Actions.Prediction.PredictionTrainer
 
 Use the prediction-trainer to train a new model.

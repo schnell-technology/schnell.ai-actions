@@ -2,6 +2,12 @@
 
 This module provides all components required for anomaly-detection.
 
+
+## Installation
+``` powershell
+schnell.ai module-i Schnell.Ai.Actions.Anomaly 0.9.1
+```
+
 ## Trainer: Schnell.Ai.Actions.Anomaly.AnomalyTrainer
 
 Use the anomaly-trainer to train a new model.

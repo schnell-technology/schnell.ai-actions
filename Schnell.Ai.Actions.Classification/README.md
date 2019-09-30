@@ -2,6 +2,11 @@
 
 This module provides all components required for data-classification.
 
+## Installation
+``` powershell
+schnell.ai module-i Schnell.Ai.Actions.Classification 0.9.1
+```
+
 ## Trainer: Schnell.Ai.Actions.Classification.ClassificationTrainer
 
 Use the classification-trainer to train a new model.
