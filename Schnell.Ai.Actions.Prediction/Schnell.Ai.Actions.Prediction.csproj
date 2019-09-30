@@ -9,6 +9,7 @@
     <Company>schnell.technology</Company>
     <Product>schnell.AI</Product>
     <Description>Prediction (trainer, tester and evaluator)</Description>
+    <StartupObject>Schnell.Ai.Actions.Prediction.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

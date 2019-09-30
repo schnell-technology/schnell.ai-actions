@@ -4,12 +4,14 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-	<OutputType>Library</OutputType>
+	<OutputType>Exe</OutputType>
     <Version>0.9.1</Version>
     <Authors>schnell.technology</Authors>
     <Company>schnell.technology</Company>
     <Product>schnell.AI</Product>
     <Description>Clustering (trainer and evaluator)</Description>
+    <ApplicationIcon />
+    <StartupObject>Schnell.Ai.Actions.Clustering.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

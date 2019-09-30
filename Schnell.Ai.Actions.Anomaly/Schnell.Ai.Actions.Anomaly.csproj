@@ -9,6 +9,7 @@
     <Company>schnell.technology</Company>
     <Product>schnell.AI</Product>
     <Description>Anomaly-detection (trainer, tester and evaluator)</Description>
+    <StartupObject>Schnell.Ai.Actions.Anomaly.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
