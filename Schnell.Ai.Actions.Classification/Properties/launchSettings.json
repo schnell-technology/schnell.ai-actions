@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Schnell.Ai.Actions.Classification": {
+      "commandName": "Executable",
+      "executablePath": "dotnet",
+      "commandLineArgs": "\"C:\\Repo\\st\\schnell.ai\\core\\schnell-ai\\Schnell.Ai\\bin\\Debug\\netcoreapp2.2\\Schnell.Ai.dll\" run -d --attach=\"C:\\Repo\\st\\schnell.ai\\core\\actions\\Schnell.Ai.Actions\\Schnell.Ai.Actions.Classification\\bin\\Debug\\netcoreapp2.2\\publish\\Schnell.Ai.Actions.Classification.dll\" --pipeline pipe1",
+      "workingDirectory": "C:\\temp\\schnell.ai\\demo-3\\"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	<OutputType>Library</OutputType>
+    <Version>0.9.1</Version>
+    <Authors>schnell.technology</Authors>
+    <Company>schnell.technology</Company>
+    <Product>schnell.AI</Product>
+    <Description>Clustering (trainer and evaluator)</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\DictionaryHelper.cs" Link="DictionaryHelper.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.3.1" />
+    <PackageReference Include="Microsoft.ML.CpuMath" Version="1.3.1" />
+    <PackageReference Include="Schnell.Ai.Sdk.Components" Version="0.9.1" />
+  </ItemGroup>
+
+</Project>
