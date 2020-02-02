@@ -1,6 +1,6 @@
 # schnell.AI Actions
 
-This repository contains default actions for schnell.AI.
+This repository contains default actions for schnell.AI. For more informations please read the [documentation](https://schnell.ai/docs/#/user/actions).
 
 ## Table of contents
 | Directory                                                | Name              | Description                                     | Framework        |
